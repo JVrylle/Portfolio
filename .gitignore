@@ -1,0 +1,8 @@
+# Local-only work, not part of the published portfolio
+.opencode/
+Template/
+purple/
+skills/
+tests/
+old_index.html
+aboutme.md
